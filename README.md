@@ -1,6 +1,4 @@
-# Tensorflow Developer Certificate - Studying Notes
-
-## Installing Tensorflow on Ubuntu
+# Installing Tensorflow
 
 See [official documentation](https://www.tensorflow.org/install/pip#install_cuda_with_apt) and follow along, or running the following scripts:
 
